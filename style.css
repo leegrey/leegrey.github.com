@@ -1,0 +1,13 @@
+  H1 { color: #9999bb; font-family: arial; font-weight : 900;}
+  H2 { font-family: arial; font-weight : 900;}
+  P  { font-family: arial; font-weight : 700; color : #000033} 
+  BODY { font-family: arial; font-weight : 200; color : #d0d0ff; background-color : #000000;}
+  
+
+A:link { color:#999999; text-decoration: none; font-weight : 700}       
+A:visited {color : #bbbbbb; text-decoration : none; font-weight : 600}
+A:active { color: #bbbbbb; text-decoration: none }    
+A:hover {color: eeeeee; text-decoration: none}
+
+
+
